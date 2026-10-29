@@ -1,11 +1,6 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
-<p align="center"><img src="docs/demo.gif" alt="Cursor project move - demo" width="700"/></p>
-<p align="center"><sub>Demo run on sample data (dry-run, migration, E2E verification)</sub></p>
-
-<!-- Previous hero (backup, static):
 <p align="center"><img src="assets/hero.png" alt="Cursor project move" width="700"/></p>
--->
 
 <h1 align="center">Cursor project move</h1>
 

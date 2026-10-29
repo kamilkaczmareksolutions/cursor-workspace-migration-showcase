@@ -1,11 +1,6 @@
 <p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
 
-<p align="center"><img src="docs/demo.gif" alt="Przenoszenie projektu Cursor - demo" width="700"/></p>
-<p align="center"><sub>Demo: przebieg na przykładowych danych (dry-run, migracja, weryfikacja E2E)</sub></p>
-
-<!-- Poprzednie hero (backup, statyczne):
 <p align="center"><img src="assets/hero.png" alt="Przenoszenie projektu Cursor" width="700"/></p>
--->
 
 <h1 align="center">Przenoszenie projektu Cursor</h1>
 
